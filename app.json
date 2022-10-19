@@ -68,7 +68,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "QUEEN BELLA INC ²⁰²²" ,
+            "value": "© GENERATE BY QUEEN BELLA ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -78,7 +78,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© GENERATE BY QUEEN BELLA INC ²⁰²²" ,
+            "value": "© GENERATE BY QUEEN BELLA ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -98,7 +98,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://i.ibb.co/7XSsQSX/QueenBella.jpg" ,
+            "value": "https://i.ibb.co/DCfbN6p/QueenBella.jpg" ,
             "required": true
       },
      
@@ -134,7 +134,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "QUEEN BELLA" ,
+            "value": "© GENERATE BY QUEEN BELLA ²⁰²²" ,
             "required": true
       },
           "WORK_TYPE": {
