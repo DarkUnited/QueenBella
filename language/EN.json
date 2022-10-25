@@ -3,7 +3,7 @@
     "LANGCODE": "en",
     "AUTHOR"  : "DarkUnited",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "queen" : {   
                             "COMMAND"  : "Command",
                             "DESC"     : "Description",
                             "EXAMPLE"  : "Example",
