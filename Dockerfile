@@ -1,4 +1,5 @@
-FROM fusuf/whatsasena:latest
+FROM aquabotwa/sanuwa-official:md-beta
+
 RUN git clone https://github.com/DarkUnited/QueenBella /root/queenbella
 WORKDIR /root/queenbella/
 ENV TZ=Europe/Istanbul
