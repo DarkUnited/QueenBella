@@ -18,7 +18,7 @@
 
 # BOT CREATED
     
-[![Run on Repl.it](https://repl.it/badge/github/quiec/QueenBella)](https://replit.com/@AMSKNIFEYT/QUEEN-BELLA-MD?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/QueenBella)](https://replit.com/@AMSKNIFEYT/Queen-Bella?v=1)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FDarkUnited%2Fqueenbella)
